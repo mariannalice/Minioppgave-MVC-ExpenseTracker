@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Date": "1995-05-11T00:00:00",
+    "Amount": 35.96,
+    "Category": "Wine",
+    "Description": ""
+  },
+  {
+    "Id": 2,
+    "Date": "1993-05-28T00:00:00",
+    "Amount": 2208,
+    "Category": "Something",
+    "Description": ""
+  }
+]

@@ -16,7 +16,7 @@ public class ExpenseView
     {
       Console.Clear();
       Console.WriteLine("All Expenses:");
-      Console.WriteLine("ID | Date      | Amount  | Category   | Description");
+      Console.WriteLine("ID | Date       | Amount  | Category   | Description");
       foreach (var expense in expenses)
       {
         Console.WriteLine($"{expense.Id}  | {expense.Date.ToShortDateString()} | {expense.Amount} | {expense.Description}");

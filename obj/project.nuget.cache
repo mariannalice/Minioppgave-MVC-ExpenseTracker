@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvSAgLe6OGE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mawid\\Documents\\Backend\\oppgaver\\Minioppgave-MVC\\Minioppgave-MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mawid\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
